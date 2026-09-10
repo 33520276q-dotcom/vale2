@@ -3,15 +3,15 @@
     "id": "com.kjsjksjsjaiwjjw.chess",
     "restype": "quick_app",
     "name": "国际象棋",
-    "description": "一款适合在小米手表上玩的国际象棋，支持标准国际象棋规则。平时没事的时候可以来一局，练练棋或者打发时间都不错。界面尽量做得简单一点，操作也比较方便，后续还会继续更新，慢慢完善更多内容。完全免费！\n\n问题及bug反馈加Q群:2167076197",
+    "description": "一款适合在小米手表上玩的国际象棋，支持标准国际象棋规则。平时没事的时候可以来一局，练练棋或者打发时间都不错。界面尽量做得简单一点，操作也比较方便，后续还会继续更新，慢慢完善更多内容。完全免费！支持本地联机。你可以与你自己的好友进行对战。\n我们建议所有用户立即卸载旧版本并安装此版本。\n\n问题及bug反馈加Q群:2167076197",
     "preview": [
-      "media/1788876486831.jpg",
+      "media/1789052286821.jpg",
       "media/xiaomi_s4-2026-09-06-13-17-49.png",
       "media/redmi_watch-2026-09-06-14-46-28.png",
       "media/xiaomi_s4-2026-09-06-13-16-54.png"
     ],
     "icon": "media/IMG_20260820_201908.jpg",
-    "cover": "media/1788876486831.jpg",
+    "cover": "media/1789052286821.jpg",
     "author": [
       {
         "name": "xuFrancisco",
@@ -22,101 +22,137 @@
   "links": [],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.9",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.0.9.rpk",
-      "versionCode": 10,
+      "version": "1.1.0",
+      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.1.0.rpk",
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "1.0.9",
           "content": "修复了一些bug"
+        },
+        {
+          "version": "1.1.0",
+          "content": "优化了软件，并且修复了一些bug。\n增加多人模式！我们建议所有用户立即卸载旧版本并安装此版本。"
         }
       ]
     },
     "xmrw5xring": {
-      "version": "1.0.9",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.0.9.rpk",
-      "versionCode": 10,
+      "version": "1.1.0",
+      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.1.0.rpk",
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "1.0.9",
           "content": "修复了一些bug"
+        },
+        {
+          "version": "1.1.0",
+          "content": "优化了软件，并且修复了一些bug。\n增加多人模式！我们建议所有用户立即卸载旧版本并安装此版本。"
         }
       ]
     },
     "xmrw6": {
-      "version": "1.0.9",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.0.9.rpk",
-      "versionCode": 10,
+      "version": "1.1.0",
+      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.1.0.rpk",
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "1.0.9",
           "content": "修复了一些bug"
+        },
+        {
+          "version": "1.1.0",
+          "content": "优化了软件，并且修复了一些bug。\n增加多人模式！我们建议所有用户立即卸载旧版本并安装此版本。"
         }
       ]
     },
     "xmws4": {
-      "version": "1.0.9",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.0.9.rpk",
-      "versionCode": 10,
+      "version": "1.1.0",
+      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.1.0.rpk",
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "1.0.9",
           "content": "修复了一些bug"
+        },
+        {
+          "version": "1.1.0",
+          "content": "优化了软件，并且修复了一些bug。\n增加多人模式！我们建议所有用户立即卸载旧版本并安装此版本。"
         }
       ]
     },
     "xmws441": {
-      "version": "1.0.9",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.0.9.rpk",
-      "versionCode": 10,
+      "version": "1.1.0",
+      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.1.0.rpk",
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "1.0.9",
           "content": "修复了一些bug"
+        },
+        {
+          "version": "1.1.0",
+          "content": "优化了软件，并且修复了一些bug。\n增加多人模式！我们建议所有用户立即卸载旧版本并安装此版本。"
         }
       ]
     },
     "xmws4xring": {
-      "version": "1.0.9",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.0.9.rpk",
-      "versionCode": 10,
+      "version": "1.1.0",
+      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.1.0.rpk",
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "1.0.9",
           "content": "修复了一些bug"
+        },
+        {
+          "version": "1.1.0",
+          "content": "优化了软件，并且修复了一些bug。\n增加多人模式！我们建议所有用户立即卸载旧版本并安装此版本。"
         }
       ]
     },
     "xmws3": {
-      "version": "1.0.9",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.0.9.rpk",
-      "versionCode": 10,
+      "version": "1.1.0",
+      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.1.0.rpk",
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "1.0.9",
           "content": "修复了一些bug"
+        },
+        {
+          "version": "1.1.0",
+          "content": "优化了软件，并且修复了一些bug。\n增加多人模式！我们建议所有用户立即卸载旧版本并安装此版本。"
         }
       ]
     },
     "xmb10p": {
-      "version": "1.0.9",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.0.9.rpk",
-      "versionCode": 10,
+      "version": "1.1.0",
+      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.1.0.rpk",
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "1.0.9",
           "content": "修复了一些bug"
+        },
+        {
+          "version": "1.1.0",
+          "content": "优化了软件，并且修复了一些bug。\n增加多人模式！我们建议所有用户立即卸载旧版本并安装此版本。"
         }
       ]
     },
     "xmb9p": {
-      "version": "1.0.9",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.0.9.rpk",
-      "versionCode": 10,
+      "version": "1.1.0",
+      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.1.0.rpk",
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "1.0.9",
           "content": "修复了一些bug"
+        },
+        {
+          "version": "1.1.0",
+          "content": "优化了软件，并且修复了一些bug。\n增加多人模式！我们建议所有用户立即卸载旧版本并安装此版本。"
         }
       ]
     }
