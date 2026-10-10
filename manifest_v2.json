@@ -23,14 +23,14 @@
     {
       "title": "安卓端下载(注册)",
       "url": "https://pan.quark.cn/s/da3c889536a3",
-      "icon": "AndroidLogo"
+      "icon": "android-logo"
     }
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.9.0",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.0.rpk",
-      "versionCode": 29,
+      "version": "1.9.1",
+      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.1.rpk",
+      "versionCode": 30,
       "updatelogs": [
         {
           "version": "1.0.9",
@@ -51,13 +51,17 @@
         {
           "version": "1.9.0",
           "content": "加了表情包系统"
+        },
+        {
+          "version": "1.9.1",
+          "content": "修复键盘显示不全的问题。"
         }
       ]
     },
     "xmrw5xring": {
-      "version": "1.9.0",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.0.rpk",
-      "versionCode": 29,
+      "version": "1.9.1",
+      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.1.rpk",
+      "versionCode": 30,
       "updatelogs": [
         {
           "version": "1.0.9",
@@ -78,13 +82,17 @@
         {
           "version": "1.9.0",
           "content": "加了表情包系统"
+        },
+        {
+          "version": "1.9.1",
+          "content": "修复键盘显示不全的问题。"
         }
       ]
     },
     "xmrw6": {
-      "version": "1.9.0",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.0.rpk",
-      "versionCode": 29,
+      "version": "1.9.1",
+      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.1.rpk",
+      "versionCode": 30,
       "updatelogs": [
         {
           "version": "1.0.9",
@@ -105,13 +113,17 @@
         {
           "version": "1.9.0",
           "content": "加了表情包系统"
+        },
+        {
+          "version": "1.9.1",
+          "content": "修复键盘显示不全的问题。"
         }
       ]
     },
     "xmws4": {
-      "version": "1.9.0",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.0.rpk",
-      "versionCode": 29,
+      "version": "1.9.1",
+      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.1.rpk",
+      "versionCode": 30,
       "updatelogs": [
         {
           "version": "1.0.9",
@@ -132,13 +144,17 @@
         {
           "version": "1.9.0",
           "content": "加了表情包系统"
+        },
+        {
+          "version": "1.9.1",
+          "content": "修复键盘显示不全的问题。"
         }
       ]
     },
     "xmws441": {
-      "version": "1.9.0",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.0.rpk",
-      "versionCode": 29,
+      "version": "1.9.1",
+      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.1.rpk",
+      "versionCode": 30,
       "updatelogs": [
         {
           "version": "1.0.9",
@@ -159,13 +175,17 @@
         {
           "version": "1.9.0",
           "content": "加了表情包系统"
+        },
+        {
+          "version": "1.9.1",
+          "content": "修复键盘显示不全的问题。"
         }
       ]
     },
     "xmws4xring": {
-      "version": "1.9.0",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.0.rpk",
-      "versionCode": 29,
+      "version": "1.9.1",
+      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.1.rpk",
+      "versionCode": 30,
       "updatelogs": [
         {
           "version": "1.0.9",
@@ -186,13 +206,17 @@
         {
           "version": "1.9.0",
           "content": "加了表情包系统"
+        },
+        {
+          "version": "1.9.1",
+          "content": "修复键盘显示不全的问题。"
         }
       ]
     },
     "xmws3": {
-      "version": "1.9.0",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.0.rpk",
-      "versionCode": 29,
+      "version": "1.9.1",
+      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.1.rpk",
+      "versionCode": 30,
       "updatelogs": [
         {
           "version": "1.0.9",
@@ -213,13 +237,17 @@
         {
           "version": "1.9.0",
           "content": "加了表情包系统"
+        },
+        {
+          "version": "1.9.1",
+          "content": "修复键盘显示不全的问题。"
         }
       ]
     },
     "xmb10p": {
-      "version": "1.9.0",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.0.rpk",
-      "versionCode": 29,
+      "version": "1.9.1",
+      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.1.rpk",
+      "versionCode": 30,
       "updatelogs": [
         {
           "version": "1.0.9",
@@ -240,13 +268,17 @@
         {
           "version": "1.9.0",
           "content": "加了表情包系统"
+        },
+        {
+          "version": "1.9.1",
+          "content": "修复键盘显示不全的问题。"
         }
       ]
     },
     "xmb9p": {
-      "version": "1.9.0",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.0.rpk",
-      "versionCode": 29,
+      "version": "1.9.1",
+      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.1.rpk",
+      "versionCode": 30,
       "updatelogs": [
         {
           "version": "1.0.9",
@@ -267,6 +299,41 @@
         {
           "version": "1.9.0",
           "content": "加了表情包系统"
+        },
+        {
+          "version": "1.9.1",
+          "content": "修复键盘显示不全的问题。"
+        }
+      ]
+    },
+    "xmws5": {
+      "version": "1.9.1",
+      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.1.rpk",
+      "versionCode": 30,
+      "updatelogs": [
+        {
+          "version": "1.0.9",
+          "content": "修复了一些bug"
+        },
+        {
+          "version": "1.1.0",
+          "content": "优化了软件，并且修复了一些bug。\n增加多人模式！我们建议所有用户立即卸载旧版本并安装此版本。"
+        },
+        {
+          "version": "1.8.0",
+          "content": "新增互联网对战，公共聊天，修复了一些bug。\n我们建议所有用户立即卸载旧版本并安装此版本。"
+        },
+        {
+          "version": "1.8.1",
+          "content": "修复在部分圆屏手表上输入法显示不全问题。\n增加自动识别，根据设备来判定输入法的样式。"
+        },
+        {
+          "version": "1.9.0",
+          "content": "加了表情包系统"
+        },
+        {
+          "version": "1.9.1",
+          "content": "修复键盘显示不全的问题。"
         }
       ]
     }
