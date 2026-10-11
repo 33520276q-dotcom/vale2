@@ -336,6 +336,31 @@
           "content": "修复键盘显示不全的问题。"
         }
       ]
+    },
+    "xmb9": {
+      "version": "1.9.1",
+      "file_name": "downloads/chess-band-1.9.1.rpk",
+      "versionCode": 30
+    },
+    "xmb10": {
+      "version": "1.9.1",
+      "file_name": "downloads/chess-band-1.9.1.rpk",
+      "versionCode": 30
+    },
+    "xmb10nfc": {
+      "version": "1.9.1",
+      "file_name": "downloads/chess-band-1.9.1.rpk",
+      "versionCode": 30
+    },
+    "xmb11": {
+      "version": "1.9.1",
+      "file_name": "downloads/chess-band-1.9.1.rpk",
+      "versionCode": 30
+    },
+    "xmb11nfc": {
+      "version": "1.9.1",
+      "file_name": "downloads/chess-band-1.9.1.rpk",
+      "versionCode": 30
     }
   },
   "ext": {}
