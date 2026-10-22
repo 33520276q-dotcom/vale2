@@ -24,13 +24,18 @@
       "title": "安卓端下载(注册)",
       "url": "https://pan.quark.cn/s/da3c889536a3",
       "icon": "android-logo"
+    },
+    {
+      "title": "官网",
+      "url": "https://cloudband.store",
+      "icon": "globe"
     }
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.9.2",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.2.rpk",
-      "versionCode": 31,
+      "version": "1.9.4",
+      "file_name": "downloads/chess-watch-1.9.4.rpk",
+      "versionCode": 33,
       "updatelogs": [
         {
           "version": "1.0.9",
@@ -59,9 +64,9 @@
       ]
     },
     "xmrw5xring": {
-      "version": "1.9.2",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.2.rpk",
-      "versionCode": 31,
+      "version": "1.9.4",
+      "file_name": "downloads/chess-watch-1.9.4.rpk",
+      "versionCode": 33,
       "updatelogs": [
         {
           "version": "1.0.9",
@@ -90,9 +95,9 @@
       ]
     },
     "xmrw6": {
-      "version": "1.9.2",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.2.rpk",
-      "versionCode": 31,
+      "version": "1.9.4",
+      "file_name": "downloads/chess-watch-1.9.4.rpk",
+      "versionCode": 33,
       "updatelogs": [
         {
           "version": "1.0.9",
@@ -121,9 +126,9 @@
       ]
     },
     "xmws4": {
-      "version": "1.9.2",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.2.rpk",
-      "versionCode": 31,
+      "version": "1.9.4",
+      "file_name": "downloads/chess-watch-1.9.4.rpk",
+      "versionCode": 33,
       "updatelogs": [
         {
           "version": "1.0.9",
@@ -152,9 +157,9 @@
       ]
     },
     "xmws441": {
-      "version": "1.9.2",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.2.rpk",
-      "versionCode": 31,
+      "version": "1.9.4",
+      "file_name": "downloads/chess-watch-1.9.4.rpk",
+      "versionCode": 33,
       "updatelogs": [
         {
           "version": "1.0.9",
@@ -183,9 +188,9 @@
       ]
     },
     "xmws4xring": {
-      "version": "1.9.2",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.2.rpk",
-      "versionCode": 31,
+      "version": "1.9.4",
+      "file_name": "downloads/chess-watch-1.9.4.rpk",
+      "versionCode": 33,
       "updatelogs": [
         {
           "version": "1.0.9",
@@ -214,9 +219,9 @@
       ]
     },
     "xmws3": {
-      "version": "1.9.2",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.2.rpk",
-      "versionCode": 31,
+      "version": "1.9.4",
+      "file_name": "downloads/chess-watch-1.9.4.rpk",
+      "versionCode": 33,
       "updatelogs": [
         {
           "version": "1.0.9",
@@ -245,9 +250,9 @@
       ]
     },
     "xmb10p": {
-      "version": "1.9.2",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.2.rpk",
-      "versionCode": 31,
+      "version": "1.9.4",
+      "file_name": "downloads/chess-watch-1.9.4.rpk",
+      "versionCode": 33,
       "updatelogs": [
         {
           "version": "1.0.9",
@@ -276,9 +281,9 @@
       ]
     },
     "xmb9p": {
-      "version": "1.9.2",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.2.rpk",
-      "versionCode": 31,
+      "version": "1.9.4",
+      "file_name": "downloads/chess-watch-1.9.4.rpk",
+      "versionCode": 33,
       "updatelogs": [
         {
           "version": "1.0.9",
@@ -307,9 +312,9 @@
       ]
     },
     "xmws5": {
-      "version": "1.9.2",
-      "file_name": "downloads/com.kjsjksjsjaiwjjw.chess.release.1.9.2.rpk",
-      "versionCode": 31,
+      "version": "1.9.4",
+      "file_name": "downloads/chess-watch-1.9.4.rpk",
+      "versionCode": 33,
       "updatelogs": [
         {
           "version": "1.0.9",
@@ -336,31 +341,6 @@
           "content": "修复键盘显示不全的问题。"
         }
       ]
-    },
-    "xmb9": {
-      "version": "1.9.1",
-      "file_name": "downloads/chess-band-1.9.1.rpk",
-      "versionCode": 30
-    },
-    "xmb10": {
-      "version": "1.9.1",
-      "file_name": "downloads/chess-band-1.9.1.rpk",
-      "versionCode": 30
-    },
-    "xmb10nfc": {
-      "version": "1.9.1",
-      "file_name": "downloads/chess-band-1.9.1.rpk",
-      "versionCode": 30
-    },
-    "xmb11": {
-      "version": "1.9.1",
-      "file_name": "downloads/chess-band-1.9.1.rpk",
-      "versionCode": 30
-    },
-    "xmb11nfc": {
-      "version": "1.9.1",
-      "file_name": "downloads/chess-band-1.9.1.rpk",
-      "versionCode": 30
     }
   },
   "ext": {}
