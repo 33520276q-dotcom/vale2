@@ -249,37 +249,6 @@
         }
       ]
     },
-    "xmb10p": {
-      "version": "1.9.4",
-      "file_name": "downloads/chess-watch-1.9.4.rpk",
-      "versionCode": 33,
-      "updatelogs": [
-        {
-          "version": "1.0.9",
-          "content": "修复了一些bug"
-        },
-        {
-          "version": "1.1.0",
-          "content": "优化了软件，并且修复了一些bug。\n增加多人模式！我们建议所有用户立即卸载旧版本并安装此版本。"
-        },
-        {
-          "version": "1.8.0",
-          "content": "新增互联网对战，公共聊天，修复了一些bug。\n我们建议所有用户立即卸载旧版本并安装此版本。"
-        },
-        {
-          "version": "1.8.1",
-          "content": "修复在部分圆屏手表上输入法显示不全问题。\n增加自动识别，根据设备来判定输入法的样式。"
-        },
-        {
-          "version": "1.9.0",
-          "content": "加了表情包系统"
-        },
-        {
-          "version": "1.9.1",
-          "content": "修复键盘显示不全的问题。"
-        }
-      ]
-    },
     "xmb9p": {
       "version": "1.9.4",
       "file_name": "downloads/chess-watch-1.9.4.rpk",
@@ -312,6 +281,37 @@
       ]
     },
     "xmws5": {
+      "version": "1.9.4",
+      "file_name": "downloads/chess-watch-1.9.4.rpk",
+      "versionCode": 33,
+      "updatelogs": [
+        {
+          "version": "1.0.9",
+          "content": "修复了一些bug"
+        },
+        {
+          "version": "1.1.0",
+          "content": "优化了软件，并且修复了一些bug。\n增加多人模式！我们建议所有用户立即卸载旧版本并安装此版本。"
+        },
+        {
+          "version": "1.8.0",
+          "content": "新增互联网对战，公共聊天，修复了一些bug。\n我们建议所有用户立即卸载旧版本并安装此版本。"
+        },
+        {
+          "version": "1.8.1",
+          "content": "修复在部分圆屏手表上输入法显示不全问题。\n增加自动识别，根据设备来判定输入法的样式。"
+        },
+        {
+          "version": "1.9.0",
+          "content": "加了表情包系统"
+        },
+        {
+          "version": "1.9.1",
+          "content": "修复键盘显示不全的问题。"
+        }
+      ]
+    },
+    "xmws541": {
       "version": "1.9.4",
       "file_name": "downloads/chess-watch-1.9.4.rpk",
       "versionCode": 33,
